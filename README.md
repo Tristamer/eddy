@@ -3,7 +3,11 @@
 代码文件名：
 
 - PAM-ResNet.ipynb： 用于构建、训练、评估PAM-ResNet模型的代码
-- data：数据集链接
+- DeeplabV3+.ipynb：用于构建、训练、评估DeeplabV3+模型的代码
+- EddyNet.ipynb：用于构建、训练、评估EddyNet模型的代码
+- ResNet.ipynb：用于构建、训练、评估ResNet模型的代码
+- ResNet_FPN.ipynb：用于构建、训练、评估ResNet_FPN模型的代码
+- - data：数据集链接
 
 以下是本项目所使用的 Python 库及其版本：
 
