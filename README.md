@@ -2,8 +2,8 @@
 
 代码文件名：
 
-PAM-ResNet.ipynb： 用于构建、训练、评估PAM-ResNet模型的代码
-data：数据集链接
+- PAM-ResNet.ipynb： 用于构建、训练、评估PAM-ResNet模型的代码
+- data：数据集链接
 
 以下是本项目所使用的 Python 库及其版本：
 
