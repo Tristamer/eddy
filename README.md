@@ -2,14 +2,14 @@
 
 代码文件名：
 
-- PAM-ResNet.ipynb： 用于构建、训练、评估PAM-ResNet模型的代码
-- DeeplabV3+.ipynb：用于构建、训练、评估DeeplabV3+模型的代码
-- EddyNet.ipynb：用于构建、训练、评估EddyNet模型的代码
-- ResNet.ipynb：用于构建、训练、评估ResNet模型的代码
-- ResNet_FPN.ipynb：用于构建、训练、评估ResNet_FPN模型的代码
-- - data：数据集链接
+- PAM-ResNet.ipynb​​: Code for building, training, and evaluating the PAM-ResNet model
+- DeeplabV3+.ipynb​​: Code for building, training, and evaluating the DeeplabV3+ model
+- EddyNet.ipynb​​: Code for building, training, and evaluating the EddyNet model
+- ​​ResNet.ipynb​​: Code for building, training, and evaluating the ResNet model
+- ​​ResNet_FPN.ipynb​​: Code for building, training, and evaluating the ResNet_FPN model
+- Data: Dataset source link,The folder named 2001_2022 is the training data, and the folder named 2023 is the testing data.
 
-以下是本项目所使用的 Python 库及其版本：
+Python Libraries Used in This Project:
 
 - `absl-py` == 2.1.0
 - `asttokens` == 2.4.1
