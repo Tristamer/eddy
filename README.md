@@ -1,6 +1,6 @@
 # eddy
 
-代码文件名：
+Code Filenames:
 
 - PAM-ResNet.ipynb​​: Code for building, training, and evaluating the PAM-ResNet model
 - DeeplabV3+.ipynb​​: Code for building, training, and evaluating the DeeplabV3+ model
