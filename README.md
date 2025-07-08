@@ -9,6 +9,11 @@ Code Filenames:
 - ​​ResNet_FPN.ipynb​​: Code for building, training, and evaluating the ResNet_FPN model
 - Data: Dataset source link,The folder named 2001_2022 is the training data, and the folder named 2023 is the testing data.
 
+Code Usage Instructions:
+- ​​1.Launch Jupyter Service:jupyter lab
+- ​​2.Open Target Model's Notebook​​ (e.g., PAM-ResNet.ipynb)
+- 3.Execute All Cells Sequentially：Hotkey: Shift + Enter
+
 Python Libraries Used in This Project:
 
 - `absl-py` == 2.1.0
